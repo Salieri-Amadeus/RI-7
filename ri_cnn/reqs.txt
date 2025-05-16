@@ -1,0 +1,7 @@
+numpy
+pandas
+tensorflow       # or keras if you prefer
+scikit-learn
+pymysql
+papermill        # only if you want to programmatically run the notebooks
+jupyterlab
